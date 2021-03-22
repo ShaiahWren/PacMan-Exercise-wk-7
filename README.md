@@ -1,4 +1,4 @@
-# pacmen
+# Pacman Factory
 
 Factory for making pacmen
 You are given a starter.html code.
