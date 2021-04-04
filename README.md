@@ -1,13 +1,13 @@
 # Pacman Factory
 
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
-
 <img src="PacMan1.png">
 
+This program is a 'pacman factory' in which simulated pacmen emerge from the top left of the webpage. Javascript animation creates the effect of bouncing and chomping.
+
+# How to Run
+Ensure the following files are on local machine: pacman.js, index.html, and png images. Drag and drop index.html into the browser to begin the program.
+
+# Future improvements
+This program could be improved my adding additional functionality to stop the movement of pacmen. User controls could be an interesting feature where key presses could influence pacmen movement. 
 # License
 MIT License
